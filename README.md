@@ -1,3 +1,5 @@
+## 具体内容参照[博客](https://blog.csdn.net/happyeveryday62/article/details/104108603)
+
 ## 参考资料
 
 1. [【Dlib】人脸检测、特征点检测、人脸对齐、人脸识别](https://blog.csdn.net/liuxiao214/article/details/83411820)
